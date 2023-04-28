@@ -1,0 +1,14 @@
+**/node_modules
+node_modules
+**/fichier
+.env
+.eslintcache
+.vscode/extensions.json
+
+**/config/default.json
+
+Clients/admin-school/node_modules
+
+geotab.json
+
+servers/api/core
